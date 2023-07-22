@@ -8,19 +8,19 @@ This page lists harmonized biome color definitions for Minecraft tools.
 This chapter is work in progress until we have a first agreed color set.
 It will have a table like the original AMIDST color definition page.
 
-| Biome name      | Minutor   | Chunkbase | Cubiomes |
-| --------------- | --------- | --------- | ---------|
-| Dripstone Caves | `#c1a58f` | `#c1a58f` | `#4e3012`
-| Lush Caves      | `#df9634` | `#df9634` | `#283c00`
-| Meadow          | `#df9634` | `#8ca470` | `#60a445`
-| Grove           | `#47726c` | `#dfece5` | `#47726c`
-| Snowy Slopes    | `#e8e8e8` | `#daf1f1` | `#c4c4c4`
-| Frozen Peaks    | `#b0b3df` | `#eafbfb` | `#b0b3ce`
-| Jagged Peaks    | `#dcdcc8` | `#e3eced` | `#dcdcc8`
-| Stony Peaks     | `#7b8f74` | `#d1d1d1` | `#7b8f74`
-| Deep Dark       | `#031f29` | `#000000` | `#031f29`
-| Mangrove Swamp  | `#24c48e` | `#24c48e` | `#2ccc8e`
-| Cherry Grove    | `#f7b9dc` | `#f7b9dc` | `#ff91c8`
+| Biome name      | Minutor                          | Chunkbase                        | Cubiomes                         |
+| --------------- | -------------------------------- | -------------------------------- | ---------------------------------|
+| Dripstone Caves | `#c1a58f` ![](colors/c1a58f.png) | `#c1a58f` ![](colors/c1a58f.png) | `#4e3012` ![](colors/4e3012.png)
+| Lush Caves      | `#df9634` ![](colors/df9634.png) | `#df9634` ![](colors/df9634.png) | `#283c00` ![](colors/283c00.png)
+| Meadow          | `#60a445` ![](colors/60a445.png) | `#8ca470` ![](colors/8ca470.png) | `#60a445` ![](colors/60a445.png)
+| Grove           | `#47726c` ![](colors/47726c.png) | `#dfece5` ![](colors/dfece5.png) | `#47726c` ![](colors/47726c.png)
+| Snowy Slopes    | `#e8e8e8` ![](colors/e8e8e8.png) | `#daf1f1` ![](colors/daf1f1.png) | `#c4c4c4` ![](colors/c4c4c4.png)
+| Frozen Peaks    | `#b0b3df` ![](colors/b0b3df.png) | `#eafbfb` ![](colors/eafbfb.png) | `#b0b3ce` ![](colors/b0b3ce.png)
+| Jagged Peaks    | `#dcdcc8` ![](colors/dcdcc8.png) | `#e3eced` ![](colors/e3eced.png) | `#dcdcc8` ![](colors/dcdcc8.png)
+| Stony Peaks     | `#7b8f74` ![](colors/7b8f74.png) | `#d1d1d1` ![](colors/d1d1d1.png) | `#7b8f74` ![](colors/7b8f74.png)
+| Deep Dark       | `#031f29` ![](colors/031f29.png) | `#000000` ![](colors/000000.png) | `#031f29` ![](colors/031f29.png)
+| Mangrove Swamp  | `#24c48e` ![](colors/24c48e.png) | `#24c48e` ![](colors/24c48e.png) | `#2ccc8e` ![](colors/2ccc8e.png)
+| Cherry Grove    | `#f7b9dc` ![](colors/f7b9dc.png) | `#f7b9dc` ![](colors/f7b9dc.png) | `#ff91c8` ![](colors/ff91c8.png)
 
 
 ## Supporting Projects
