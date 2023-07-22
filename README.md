@@ -26,7 +26,7 @@ It will have a table like the original AMIDST color definition page.
 ## Supporting Projects
 * [Minutor](https://github.com/mrkite/minutor)
 * [ChunkBase](https://www.chunkbase.com/apps/biome-finder)
-* maybe [Cubiomes](https://github.com/Cubitect/cubiomes) might join
+* [Cubiomes](https://github.com/Cubitect/cubiomes) might join
 
 
 ## Contributing
