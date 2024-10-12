@@ -21,11 +21,12 @@ It will have a table like the original AMIDST color definition page.
 | Deep Dark       | `#101b1b` ![](colors/101b1b.png) | `#000000` ![](colors/000000.png) | `#031f29` ![](colors/031f29.png)
 | Mangrove Swamp  | `#24c48e` ![](colors/24c48e.png) | `#24c48e` ![](colors/24c48e.png) | `#2ccc8e` ![](colors/2ccc8e.png)
 | Cherry Grove    | `#f7b9dc` ![](colors/f7b9dc.png) | `#f7b9dc` ![](colors/f7b9dc.png) | `#ff91c8` ![](colors/ff91c8.png)
+| Pale Garden     | `#726c68` ![](colors/726c68.png) | `#6c6f96` ![](colors/6c6f96.png) | `#726c68` ![](colors/726c68.png)
 
 
 ## Supporting Projects
 * [Minutor](https://github.com/mrkite/minutor)
-* [ChunkBase](https://www.chunkbase.com/apps/biome-finder)
+* [ChunkBase](https://www.chunkbase.com/apps/biome-finder) might join
 * [Cubiomes](https://github.com/Cubitect/cubiomes) might join
 
 
