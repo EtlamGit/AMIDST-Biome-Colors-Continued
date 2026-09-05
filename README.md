@@ -23,6 +23,7 @@ It will have a table like the original AMIDST color definition page.
 | Cherry Grove    | `#f7b9dc` ![](colors/f7b9dc.png) | `#f7b9dc` ![](colors/f7b9dc.png) | `#ff91c8` ![](colors/ff91c8.png) |
 | Pale Garden     | `#696d95` ![](colors/696d95.png) | `#6c6f96` ![](colors/6c6f96.png) | `#696d95` ![](colors/696d95.png) |
 | Sulfur Caves    | `#c8c828` ![](colors/c8c828.png) | `#c8c828` ![](colors/c8c828.png) |                                  |
+| Dappled Forest  | `#9a3f35` ![](colors/9a3f35.png) | `#9a3f35` ![](colors/9a3f35.png) |                                  |
 
 
 ## Supporting Projects
